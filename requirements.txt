@@ -1,0 +1,4 @@
+# PDF to Word requirements
+# 添加你需要的依赖包
+# pdf2docx
+# python-docx
