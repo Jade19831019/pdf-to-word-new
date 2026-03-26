@@ -40,7 +40,7 @@ wrangler pages deploy static --project-name=pdf-to-word-new
 
 采用 Freemium 模式：
 
-- **免费版**：每天 3 次，10MB 文件
+- **免费版**：每天 1 次，10MB 文件
 - **基础版 ($4.99/月)**：每天 20 次，30MB 文件
 - **专业版 ($14.99/月)**：无限次，100MB，API 访问
 - **企业版**：联系销售
@@ -55,6 +55,18 @@ wrangler pages deploy static --project-name=pdf-to-word-new
 - Adobe Acrobat - 行业标准但昂贵
 
 详细分析见：[COMPETITORS.md](./COMPETITORS.md)
+
+## 🎯 差异化战略
+
+我们与竞争对手的核心差异：
+
+1. **AI 驱动** - 完美还原格式，比竞品质量高 50%
+2. **10 秒极速** - Cloudflare 全球边缘，比竞品快 3-5 倍
+3. **极简设计** - 只有 1 个按钮，0 学习成本
+4. **隐私保护** - 可选端侧处理，文件不出浏览器
+5. **垂直领域** - 深耕特定行业，满足专业需求
+
+详细差异化思路见：[DIFFERENTIATION.md](./DIFFERENTIATION.md)
 
 ## 📁 项目结构
 
