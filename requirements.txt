@@ -1,4 +1,5 @@
-# PDF to Word requirements
-# 添加你需要的依赖包
-# pdf2docx
-# python-docx
+# PDF to Word Web Tool - Requirements
+flask==2.3.0
+werkzeug==2.3.0
+# pdf2docx==0.5.8
+# python-docx==0.8.11
